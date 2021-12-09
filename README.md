@@ -30,6 +30,9 @@ In conclusion, I would recommend my second model to be used to predict which sta
 
 ![screenshot of model 2 loss and accuracy plots](https://github.com/chaimkriger/Challenge_13/blob/main/Starter_Code/Screenshot%20(44).png)
 
+![screenshot of model 3 loss and accuracy plots](https://github.com/chaimkriger/Challenge_13/blob/main/Starter_Code/Screenshot%20(45).png)
+
+
 
 
 ---
