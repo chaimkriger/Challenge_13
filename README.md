@@ -25,6 +25,13 @@ In my first model, I used an input number of 116 features, along with 58 hidden 
 In my second model, I kept my input features the same, but only used one hidden layer of 58 nodes, and used 100 epochs. This model gave me an accuracy score of 73%, conisderably better than my original model. For my third model, I also kept the imput features the same, but used three hidden layers, with 58, 29, and 15 nodes respectively. I also used 150 epochs. This model gave me a similer accuracy score to my second model: 72.8%.
 In conclusion, I would recommend my second model to be used to predict which startups will be successful or not.
 
+
+![screenshot of model 1 loss and accuracy plots](https://github.com/chaimkriger/Challenge_13/blob/main/Starter_Code/Screenshot%20(43).png)
+
+![screenshot of model 2 loss and accuracy plots](https://github.com/chaimkriger/Challenge_13/blob/main/Starter_Code/Screenshot%20(44).png)
+
+
+
 ---
 
 ## Technologies
